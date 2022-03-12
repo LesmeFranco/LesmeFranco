@@ -1,6 +1,4 @@
-### I´m a student of Impa School ⚡
-
-**LesmeFranco/LesmeFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I´m a Student Of Impa School ⚡
 
 Here are some ideas to get you started:
 
