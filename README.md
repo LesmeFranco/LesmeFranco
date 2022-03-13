@@ -6,9 +6,10 @@
 ### More about me 
 
 ```javascript
-var Lesmeranco= {
+var Lesme Franco= {
     age : 15,
     hobbies : ["sports", "videogames"],
+    languajes : ["deutschland", "English"],
     },
 }
 ```
