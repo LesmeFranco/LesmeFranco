@@ -1,4 +1,4 @@
-## I´m a Student Of Impa School ⚡
+## *I´m a Student Of Impa School* ⚡
 
 - 🔭 I’m studying avionica.
 - 🌱 I’m currently learning about how to be a better person in this world.
@@ -10,7 +10,7 @@ var Lesme Franco= {
     age : 15,
     hobbies : ["sports", "videogames and music"],
     languajes : ["deutschland", "English"],
-    i'm like : ["go to the gym"],
+    i like : ["go to the gym"],
     
 }
 ```
