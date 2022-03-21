@@ -10,7 +10,6 @@ var Lesme Franco= {
     age : 15,
     hobbies : ["sports", "videogames and music"],
     languajes : ["deutschland", "English"],
-    i'm like: ["go to the gym"],
     },
 }
 ```
