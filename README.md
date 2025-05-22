@@ -4,16 +4,11 @@
 <!-- Header -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi, I'm Franco Lesme <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Franco Lesme <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35px"></h1></summary>
   </ul>
 </div>
 
 <!-- About Me Section -->
-<div style="display: flex; align-items: center;">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="margin-right:">
-  </picture>
-
 ## 🎓 Certifications & Training
 ✅ **Introduction to Python** – ITBA   
 ✅ **Introduction to Linux Security** – Hack4u (*15 hours*)  
