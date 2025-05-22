@@ -4,7 +4,7 @@
 <!-- Header -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi, I'm Franco Lesme <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35px"></h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Franco Lesme <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></h1></summary>
   </ul>
 </div>
 
@@ -15,7 +15,7 @@
 ✅ **Kali & Parrot Environment Customization** – Hack4u (*3 hours*)  
 ✅ **Ethical Hacking Course** – Hack4u (*In progress*)  
 
-## 🛠️ Technical Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
