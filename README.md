@@ -6,10 +6,12 @@
 
 <!-- Header -->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Franco Lesme <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></h1></summary>
   </ul>
 </div>
+
+---
 
 <!-- About Me Section -->
 ## 🎓 Certifications & Training
@@ -44,7 +46,4 @@
 <!-- Final-->
 <div align="center">
     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
