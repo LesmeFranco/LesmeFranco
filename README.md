@@ -17,8 +17,9 @@
 ## 🎓 Certifications & Training
 ✅ **Introduction to Python** – ITBA   
 ✅ **Introduction to Linux Security** – Hack4u (*15 hours*)  
-✅ **Kali & Parrot Environment Customization** – Hack4u (*3 hours*)  
-✅ **Ethical Hacking Course** – Hack4u (*In progress*)  
+✅ **Parrot Environment Customization** – Hack4u (*3 hours*)  
+✅ **Ethical Hacking Course** – Hack4u (*53 hours*)
+✅ **Offensive Python Course** – Hack4u (*35 hours*)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
 ![My Skills](https://skillicons.dev/icons?i=raspberrypi,python,cpp,linux,git,bash,flask,sqlite,react,css,html,js) 
